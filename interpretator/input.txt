@@ -1,0 +1,17 @@
+
+
+
+
+
+   
+	
+	   (let A = (val 20) in
+(let B = (val 30) in
+(if (var A) (add (var B) (val 3))
+then (val 10)
+else (add (var B) (val 1)))))	
+
+
+
+
+
